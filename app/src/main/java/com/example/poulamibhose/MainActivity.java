@@ -1,4 +1,4 @@
-package com.example.poulamibhose.tabspoc;
+package com.example.poulamibhose;
 
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
@@ -10,11 +10,13 @@ import android.os.Bundle;
 import android.support.v7.widget.ToolbarWidgetWrapper;
 import android.widget.Toolbar;
 
+import com.example.poulamibhose.tabspoc.R;
+
 import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-//t
+
     private android.support.v7.widget.Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;

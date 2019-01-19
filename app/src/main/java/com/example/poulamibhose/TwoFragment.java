@@ -1,4 +1,4 @@
-package com.example.poulamibhose.tabspoc;
+package com.example.poulamibhose;
 
 import android.content.Context;
 import android.net.Uri;
@@ -7,6 +7,8 @@ import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import com.example.poulamibhose.tabspoc.R;
 
 
 /**
@@ -18,7 +20,7 @@ import android.view.ViewGroup;
  * create an instance of this fragment.
  */
 public class TwoFragment extends Fragment {
-//t
+
     public TwoFragment() {
         // Required empty public constructor
     }
